@@ -1,0 +1,46 @@
+<svg display="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <symbol id="ru" viewBox="0 0 26 26">
+    <g>
+      <path fill="#fff" d="M0 0h40v26H0z"></path>
+      <path d="M0 0h40v8.667H0V0z" fill="#fff"></path>
+      <path d="M0 8.667h40v8.666H0V8.667z" fill="#00F"></path>
+      <path d="M0 17.333h40V26H0v-8.667z" fill="red"></path>
+    </g>
+  </symbol>
+  <symbol id="de" viewBox="0 0 26 26">
+    <g>
+      <path fill="#fff" d="M0 0h40v26H0z"></path>
+      <path d="M40 0H0v26h40V0z" fill="#D80027"></path>
+      <path d="M40 0H0v8.666h40V0z" fill="#000"></path>
+      <path d="M40 17.333H0v8.666h40v-8.666z" fill="#FFDA44"></path>
+    </g>
+  </symbol>
+  <symbol id="en" viewBox="6 0 26 26">
+    <g>
+      <path fill="#fff" d="M0 0h40v26H0z"></path>
+      <path fill="#00247D" d="M0 0h40v26H0z"></path>
+      <path d="M0 20L40 0v6L0 26v-6z" fill="#fff"></path>
+      <path d="M0 23l12-6h4L0 25v-2zM40 3L28 9h-4l16-8v2z" fill="#CF142B"></path>
+      <path d="M40 20L0 0v6l40 20v-6z" fill="#fff"></path>
+      <path d="M40 21l-12-6h-4l16 8v-2zM0 5l12 6h4L0 3v2z" fill="#CF142B"></path>
+      <path fill="#fff" d="M15.678 0h8.644v26h-8.644z"></path>
+      <path fill="#fff" d="M0 17.322V8.678h40v8.644z"></path>
+      <path fill="#CF142B" d="M0 15.602v-5.203h40v5.203z"></path>
+      <path fill="#CF142B" d="M17.398 0h5.203v26h-5.203z"></path>
+    </g>
+    <symbol id="pl" viewBox="0 0 26 26">
+      <g>
+        <path fill="#fff" d="M0 0h40v26H0z"></path>
+        <path d="M0 13h40v13H0V13z" fill="#FF4B55"></path>
+        <path d="M40 13H0V0h40v13z" fill="#F5F5F5"></path>
+      </g>
+    </symbol>
+    <symbol id="ua" viewBox="0 0 26 26">
+      <g>
+        <path fill="#fff" d="M0 0h40v26H0z"></path>
+        <path d="M0 13h40v13H0V13z" fill="#FFD500"></path>
+        <path d="M40 13H0V0h40v13z" fill="#005BBB"></path>
+      </g>
+    </symbol>
+  </svg>
